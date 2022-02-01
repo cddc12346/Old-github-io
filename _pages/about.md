@@ -14,10 +14,14 @@ Caution: it may be boring!
 
 And perhaps to keep track of some of my achievements...
 
-# Achievements (2020)
+Achievements (2020)
+======
+
 1) Finisher for KringleCon 2020
 
-# Achievements (2021)
+Achievements (2021)
+======
+
 1) 2nd in VulnCon CTF
    
 2) 3rd in BSIDES NOIDA 
