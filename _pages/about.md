@@ -8,9 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my blog! 
 ======
-Just writing to document my learning and to practice my writing LOL. Caution: it may be boring!
+Just writing to document some of my learning and to practice my writing LOL. 
+======
+Caution: it may be boring!
 
 And perhaps to keep track of some of my achievements...
 
