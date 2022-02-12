@@ -8,11 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Just writing to document some of my learning and to practice my writing LOL. 
+Just writing to document some of my learning as well as to practice my writing. 
 
-Caution: it may be boring!
-
-And perhaps to keep track of some of my achievements...
+And hopefully to use this as my future resume.
 
 Achievements (2020)
 ======
