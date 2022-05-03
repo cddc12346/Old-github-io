@@ -8,24 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Just writing to document some of my learning as well as to practice my writing. 
+Hi all, I am IceCreamMan. Thanks for visiting my page! I am mainly using this to document my learning and to practice some writing. Hope you won't be bored.
 
-And hopefully to use this as my future resume.
-
-Achievements (2020)
-======
-
-1) Finisher for KringleCon 2020
-
-Achievements (2021)
-======
-
-1) 2nd in VulnCon CTF
+Some things about me?
+------
+1) I am a cyber security engineer. 
    
-2) 3rd in BSIDES NOIDA 
+2) In my free time, I like to play CTF. Currently, I am playing CTFs with ProjectSekai. I mainly do pwn and rev.
    
-3) 2nd in IJCTF
-   
-4) Flareon 2021 finisher 98th (IceCreamMan)
-   
-5) Finisher for KringleCon 2021
+3) Basically someone who spends too much time on the computer :((
