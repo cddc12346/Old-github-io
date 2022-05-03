@@ -2,7 +2,7 @@
 title: "Python Shell in Browser!?!"
 collection: teaching
 type: "random"
-permalink: /cool_tech/give-me-a-python-shell
+permalink: /tech/give-me-a-python-shell
 date: 2022-05-03
 ---
 
