@@ -212,7 +212,7 @@ defaults:
   # cool tech
   - scope:
       path: ""
-      type: cool tech
+      type: cool_tech
     values:
       layout: single
       author_profile: true
