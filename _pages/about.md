@@ -29,8 +29,3 @@ Achievements (2021)
 4) Flareon 2021 finisher 98th (IceCreamMan)
    
 5) Finisher for KringleCon 2021
-
-Achievements (2022)
-======
-
-1) Join ProjectSekai, currently #3 in on CTFtime on 3 May
