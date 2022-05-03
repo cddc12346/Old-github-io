@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # cool tech
   - scope:
       path: ""
-      type: teaching
+      type: cool tech
     values:
       layout: single
       author_profile: true
