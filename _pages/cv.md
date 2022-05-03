@@ -48,9 +48,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Cool_Tech
+Teaching
 ======
-  <ul>{% for post in site.cool_tech %}
+  <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
