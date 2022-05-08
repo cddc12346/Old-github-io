@@ -1,0 +1,70 @@
+
+<!DOCTYPE html>
+<html>
+<body>
+	
+	
+<article>
+	<div class="col-sm-10">
+	 <span class="post-date">
+        POC credited to Antoine Vastel
+	 </span>
+	  <div class="article_body">
+	  <style type="text/css">
+#test-area {
+    	position:fixed;
+	top: 0; left: 0;
+	right: 0; bottom: 0;
+    -webkit-transform: translate3d(0, 0, 0);
+    -webkit-backface-visibility: hidden;
+    -webkit-transform: translateZ(0);
+    -webkit-perspective: 1000;
+	z-index: -1;
+	filter: blur(15px) blur(15px) ;
+	-webkit-filter: blur(15px) blur(15px) ;
+	pointer-events: none;
+}
+
+#test-area a:visited{
+	color:red;
+}
+
+#test-area a:visited, #links a:visited {
+  	color: red;
+}
+#links > li::before {
+	  font-family: monospace;
+	  margin-right: 5px;
+	  content: "[ ]";
+}
+#links > li.visited::before {
+  	content: "[v]";
+}
+.details {
+	  font-size: 80%;
+	  color: gray;
+}
+</style>
+
+<h2 id="demo">Demo</h2>
+
+<p>Below you can see the results of the attack run on your browser (no data is shared, it is only in local).
+Normally, the results should have appeared below.
+If it is not the case, wait a little bit.
+Otherwise, you can relaunch it by clicking on the button.
+Since it is a timing attack, it might by sensible to external factors, one of the most important is the fact that you scroll while a test is being run (particularly for Chrome since there seems to be a problem with position:fixed).</p>
+
+<p><button id="launch-test">Launch attack</button></p>
+<div id="wait-area"></div>
+<div id="test-area"></div>
+<ul id="links"></ul>
+
+<script src="test.js" type="text/javascript"></script>
+
+</article>
+
+</body>
+</html>
+
+
+
